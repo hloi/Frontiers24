@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Insert web page title here</title>
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta name="generator" content="thesitewizard.com's Layout Wizard 4.0.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="all" href="./css/styles.css">
+    <link rel="stylesheet" type="text/css" href="./css/tswnavbar.css">
+  </head>
+  <body>
+    <div id="tswcontainer">
+      <div id="tswheader">
+        <!-- start of header section: insert your logo, etc, here -->
+        <p>&nbsp;<img src="https://www.wpi.edu/sites/default/files/inline-image/Offices/Marketing-Communications/WPI_Inst_Prim_FulClr.png"
+
+            alt="Marketing Communications Resources &amp; Tools | Worcester ..."
+
+            style="width: 65px; height: 50px;"><img src="https://as1.ftcdn.net/v2/jpg/01/97/70/74/1000_F_197707481_DuCS9dAhwe7SnMXvDY8AWdKi8BmiYhgb.jpg"
+
+            alt="Science Computer Logo Icon Design Stock Vector | Adobe Stock" style="width: 58px; height: 58px;"></p>
+        <h1 id="Launch"> Launch 2024</h1>
+        <p></p>
+        <!-- end of header section: insert your logo, etc, above this line --> </div>
+      <div id="tswsidecol">
+        <div id="tswsideproper">
+          <!-- start of side column: insert your navigation menu, etc, here -->
+          <div id="tswcssbuttons">
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="aboutme.html">About Me</a></li>
+              <li><a href="ponggame.html">Pong Game</a></li>
+            </ul>
+          </div>
+          <!-- end of side column: put your navigation menu, etc, above this line -->
+        </div>
+      </div>
+      <div id="tswcontent">
+        <div id="tswcontproper">
+          <!-- start of content column: insert your content here -->
+          <h1 id="cs">Computer Science</h1>
+          <span style="color: rgb(31, 35, 39); font-family: Raleway, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Immerse
+            yourself in a one-week intensive course that merges the realms of
+            technology, entrepreneurship, and computer science. Guided by an
+            expert WPI professor, you'll navigate the fast-paced journey of
+            technology development, from inception to presentation. This course
+            emphasizes collaborative learning, where you'll engage in group
+            projects to create web-based applications. You'll explore various
+            design and programming techniques, fostering a space to share and
+            refine your ideas with peers. The curriculum focuses on essential
+            web development skills, covering topics and languages such as HTML,
+            CSS, JavaScript, and the basics of networking. This course is
+            designed to equip you with practical skills for solving real-world
+            problems using technology</span>
+          <p>&nbsp; </p>
+          <figure> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm2_h6EommgngBlj6UDRxpAlzU5mBEbiHuZA&amp;s"
+
+              alt="How To Make Pong: The Code | IndieGameDev"> <figcaption>Fig.1
+              - Pong Game.</figcaption> </figure>
+          <p></p>
+          <p> </p>
+          <figure> <img src="https://m.media-amazon.com/images/I/81xt2+PD0IL.png"
+
+              alt="Hangman Classic Free - App on Amazon Appstore" style="width: 191px; height: 191px;">
+            <figcaption>Fig.2 Hangman</figcaption> </figure>
+          <p></p>
+          <!-- end of content column: put your content above this line --> </div>
+      </div>
+      
+      <div style="clear: both;"></div>
+      <div id="tswfooter">
+        <!-- start of footer section: insert your copyright notice, etc, here -->
+        <p style="text-align: center;"> Copyright 2024 By Professor Hao Loi</p>
+        <!-- end of footer section: insert your copyright notice, etc, above this line -->
+      </div>
+    </div>
+  </body>
+</html>
